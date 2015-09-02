@@ -36,7 +36,7 @@ geometry: margin=1in
 
 - **Reading**: Jack Klempay, "The Definitively Non-Standard English of David Foster Wallace"
     (TMR); Joseph Harris, "Coming to Terms" (from *Rewriting*)
-- Homework due: Exercise 1d
+- **Homework**: Exercise 1d
 
 ###9/25: Formal Draft Due by 2PM (to me and your workshop partner)
 
