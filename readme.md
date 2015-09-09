@@ -21,7 +21,7 @@ author: Phillip R. Polefrone
 - **Reading**: Aldo Leopold, "The Land Ethic"
 - **Homework** Exercise 1a
 
-###9/16: What is an Interpretive Problem? (Economy, Environment, Text)
+###9/16: What is an intellectual problem? (Economy, Environment, Text)
 
 - **Reading**: the first few pages of "Private Discourse in *Walden*" by Ronald
     B. Schwartz and "Economic
