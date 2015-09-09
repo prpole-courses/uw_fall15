@@ -5,7 +5,6 @@ geometry: margin=1in
 author: Phillip R. Polefrone
 ---
 
-#NOTE: DRAFT, SUBJECT TO CHANGE 
 
 #Schedule of Assignments: 
 
