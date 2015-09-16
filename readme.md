@@ -5,6 +5,7 @@ geometry: margin=1in
 author: Phillip R. Polefrone
 ---
 
+#NOTE: DRAFT, SUBJECT TO CHANGE 
 
 #Schedule of Assignments: 
 
@@ -32,8 +33,7 @@ author: Phillip R. Polefrone
 
 ###9/21: Close Reading (Environment, Culture, and Epistemology)
 
-- **Reading**: Jamaica Kincaid, "To Name is to Possess"; Lance Richardson, "How
-    Aldo Leopold Came to Conservationism"
+- **Reading**: Jamaica Kincaid, "To Name is to Possess"
 - **Homework** Exploratory Draft (due 9/20 by 5PM)
 
 ###9/23: Methods and Tactics of Engagement---Response vs. Analysis
