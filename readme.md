@@ -5,8 +5,6 @@ geometry: margin=1in
 author: Phillip R. Polefrone
 ---
 
-#NOTE: DRAFT, SUBJECT TO CHANGE 
-
 #Schedule of Assignments: 
 
 ##1st Progression: Critical Response: Definitions of Environment
@@ -42,12 +40,12 @@ author: Phillip R. Polefrone
     (TMR); Joseph Harris, "Coming to Terms" (from *Rewriting*)
 - **Homework**: Exercise 1d
 
-###9/25: Formal Draft Due by 2PM (to me and your workshop partner)
+###9/25: Formal Draft Due by 6PM (to me and your workshop partner)
 
 ###9/28: Workshop
 
 - **Reading**: Workshop partner's draft
-- **Homework** Formal Draft (due 9/25 by 2PM)
+- **Homework** Formal Draft (due 9/25 by 6PM)
 
 ###9/30: Structure-Based Revision; Sentences
 
