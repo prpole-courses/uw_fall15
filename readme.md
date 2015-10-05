@@ -1,13 +1,14 @@
 ---
-title: ENLC1010 - University Writing, Readings in Sustainable Development
+title: Schedule of Assignments
 date: Fall 2015
 geometry: margin=1in
 author: Phillip R. Polefrone
 ---
 
+
 #Schedule of Assignments: 
 
-##1st Progression: Critical Response: Definitions of Environment
+##1st Progression: 
 
 ###9/9: Introductions (Defining "Environment")
 
@@ -27,7 +28,7 @@ author: Phillip R. Polefrone
     "Economy," Henry David Thoreau (from *Walden*)
 - **Homework** Exercise 1b
 
-###9/20: Expoloratory Draft due 5PM
+###9/20: Exploratory Draft due 5PM
 
 ###9/21: Close Reading (Environment, Culture, and Epistemology)
 
@@ -58,41 +59,42 @@ author: Phillip R. Polefrone
 
 ###10/5: What's the point of conversation?
 
-- **Reading**: none (Burkean Parlor and *New Yorker* letters to editor in class)
+- **Reading**: "They Say, I Say"
 - **Homework** Final P1 Essay Due (in class)
 
 ###10/7: Problem and Evidence, Revisited (Defining the Commons)
 
 - **Reading**: Garrett Hardin, "The Tragedy of the Commons"
-- **Homework** Exercise 2a
+- **Homework**: Response to Hardin (See syllabus on requirements of a
+    "response")
 
 
 ###10/12: Exhibits (Critiquing the Commons)
 
-- **Reading**: Naomi Klein, "Why #BlackLivesMatter Should Transform the Climate
-    Debate"
+- **Reading**: Naomi Klein, "Why #BlackLivesMatter Should Transform the
+    Climate Debate"; Rob Nixon, "Neoliberalism, Genre, and the 'Tragedy of the Commons'"
 - **Homework** Exercise 2b
 
 ###10/14: Deepening Analysis (Critiquing the Commons)
 
-- **Reading**: Rob Nixon, "Neoliberalism, Genre, and the 'Tragedy of the Commons'"
-- **Homework** Exploratory Draft
+- **Reading**: Elinor Ostrom, *Governing the Commons* (Chapter 1); TMR essay
+    (TBA)
+- **Homework**: Exercise 2c
 
 ###10/19: Proposing Alternatives and Weighing Paradigms (Governing the Commons, or an Alternative Economics)
 
-- **Reading**: Elinor Ostrom, *Governing the Commons* (Chapter 1)
-- **Homework** Exercise 2c 
-
-###10/21: Entering a Conversation
-
-- **Reading**: TMR essay (TBA); Williams, "Cohesion and Coherence"
+- **Reading**: Williams, "Cohesion and Coherence"
 - **Homework** **Formal Draft**
 
-###10/26: Workshop
+###10/21: Workshop 
 
-- **Reading**: Workshop partner's latest draft; Booth, "Judging Rhetoric" (from
-    *The Rhetoric of Rhetoric*)
-- **Homework** Email latest draft to partner at least 24 hours before class
+- **Reading**: Partner's draft
+- **Homework** Continue revising
+
+###10/26: Workshop/TBA
+
+- **Reading**: Booth, "Judging Rhetoric" (from *The Rhetoric of Rhetoric*)
+- **Homework** Continue revising
 
 ###10/30: Final Essay Due, 5PM
 
@@ -161,7 +163,7 @@ author: Phillip R. Polefrone
 
 ###12/9: Persuasion and Motive (Localism)
 
-- **Reading**: Excerpt from Carloline Levine, *Forms*; Carolyn Merchant,
+- **Reading**: Excerpt from Caroline Levine, *Forms*; Carolyn Merchant,
     "Bioregionalism" (from *Radical Ecology*)
 - **Homework** Exercise 4b
 
@@ -173,4 +175,5 @@ author: Phillip R. Polefrone
 - **Homework** Annotated partner draft
 
 ###12/16: Final Op-Ed Due 
+
 
