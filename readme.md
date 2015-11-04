@@ -100,66 +100,73 @@ author: Phillip R. Polefrone
 
 ##3rd Progression: Research: Ecology vs. Economy
 
-###10/28: Introduction to the Research Progression; Topics
+###10/28: Introduction to the Research Progression; Types of essay; BEAM
 
-- **Reading**: none
-- **Homework** Exercise 3.0 (Pick 3-5 articles from class database, identify topics)
+- **Reading**: 4 TMR essays
+- **Homework**: Contemplate Controversy vs. Review
 
 ###11/4: Discourse and the Academic "Genre" (Climate Change and the Economy)
 
 - **Reading**: Naomi Klein, "Capitalism vs. the Climate"
 - **Homework** Exercise 3a
 
-###11/9: Ideas and their Histories
+###11/9: Preparing for Proposals
 
-- **Reading**: Dawson, "The Hostile Environment" (TMR)
-- **Homework** Exercise 3b
+- **Reading**: Dawson, "The Hostile Environment" (TMR); *The Craft of
+    Research*, Chapters 3 and 4
+- **Homework**: Assignment 3b Proposal
 
-###11/11: Mediating Discourse Communities
+###11/11: Library Day
 
 - **Reading**: TBA
-- **Homework** Exercise 3c
+- **Homework**: Assignment 3c Preliminary Bibliography (3-4
+    sources)
 
-###11/16: Library Day
+###11/13: Mandatory Event: "Beyond Plagiarism: Doing Justice to Your Sources." 11:00-12:45, 501 Schermerhorn
 
-- **Reading**: Handout (from *The Craft of Research*)
-- **Homework** Exploratory Draft
+###11/15: Exploratory Draft due to me and partners by 12PM
 
-###11/18: Research Motives
+###11/16: Proposal Pitches (Small Groups)
 
-- **Reading**: none
-- **Homework** Lightly Annotated Preliminary Bibliography and Abstract
+- **Reading**: Partners' Exploratory Drafts
+- **Homework**: Written response to drafts; prepare five minute oral presentation of
+    your pitch.
+
+###11/18: Note Taking and Research
+
+- **Reading**: None
+- **Homework** Lightly Annotated Bibliography and Abstract
 
 ###11/23: Using Sources
 
-- **Reading**: Crooke, "Overlooking the Rite in the Name of What's 'Right'" (TMR)
+- **Reading**: TBA
 - **Homework** Exercise 3d
 
 ###11/24: Formal Drafts Due by 5PM
 
-### 11/25: Topic Sharing
+### 11/25: Workshop
 
-- **Reading**: none
-- **Homework** none
+- **Reading**: Partner's draft
+- **Homework**: Reverse-outline of and response to partner's draft.
 
 ###11/30: Draft Workshop
 
-- **Reading**: partner's essay
-- **Homework** Annotated copy of partner's essay **Final due 12/4**
+- **Reading**: Partner's Draft
+- **Homework** Annotated copy of partner's essay **Final due 12/7**
 
-###12/4: Final P3 Draft Due
+###12/7: Final P3 Draft Due
 
 ##4th Progression: Op-Ed: Localism and the Planet
 
-###12/2: Audience/Public
+###12/2: Final P3 Workshop
 
-- **Reading**: Op-Ed samples TBA
+- **Reading**: Partner's Draft
 - **Homework** Exercise 4a
 
 ###12/7: Paper versus Publication
 
 - **Reading**: Gordon, "Reaching beyond the University: Writing the Op-Ed" (TMR)
-- **Homework** Exploratory Draft
+- **Homework**: Article Pitch (Exploratory Draft)
 
 ###12/9: Persuasion and Motive (Localism)
 
